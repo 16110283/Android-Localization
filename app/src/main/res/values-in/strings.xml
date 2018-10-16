@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lokalisasi</string>
+    <string name="app_title">Registrasi</string>
+
+    <string name="app_text">Isi formulir ini untuk mendaftar sebagai pengguna</string>
+    <string name="form_name">Nama Lengkap</string>
+    <string name="form_email">Alamat Email</string>
+    <string name="form_phone">Nomor Telepon</string>
+    <string name="form_pwd">Kata Sandi</string>
+    <string name="form_check">Saya telah membaca dan menyetujui ketentuan</string>
+
+    <string name="btn_go">Kirim</string>
+    <string name="btn_set">Ganti Bahasa</string>
+</resources>
